@@ -7,6 +7,7 @@ More about me:
 - 4 years of management consulting experience as a Consultant at boutique management consulting firm delivering to Fortune 100 life sciences and pharma firms
 - BS in Psychology/Neuroscience with several year-long research project as Co-PI in Psychology at Boston College
 - Combining business and soft skills gained from management consulting with technical skills from MS in Computer Science to contribute to teams in technical capacity as a leader and critical thinker
+- Based in Medford, MA
 - LinkedIn: https://www.linkedin.com/in/matthewstachyra/
 - Email: matthew.stachyra@tufts.edu 
 
