@@ -1,6 +1,7 @@
 Hi, I’m @matthewstachyra
 - Currently MS student in Computer Science at Tufts University 
 - Currently taking Software Engineering, Advanced Machine Learning, and Mathematical Statistics
+- Next taking Programming Languages, Advanced Python for Data Science
 - Currently looking for Summer 2022 internship in Machine Learning, for employment as Machine Learning Engineer post-graduation
 
 More about me:
