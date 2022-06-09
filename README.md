@@ -1,8 +1,6 @@
 Hi, I’m @matthewstachyra
 - Currently MS student in Computer Science at Tufts University.
-- Currently taking Programming Languages and Advanced Python for Data Science.
-- Currently TA'ing Theory of Computation at Tufts University.
-- Currently looking for Summer 2022 internship in Machine Learning, for employment as Machine Learning Engineer post-graduation
+- Currently a Machine Learning Engineering Intern at Orbita for Summer '22.
 
 More about me:
 - 4 years of management consulting experience as a Consultant at boutique management consulting firm delivering to Fortune 100 life sciences and pharma firms.
