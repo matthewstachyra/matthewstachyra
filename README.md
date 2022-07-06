@@ -1,6 +1,6 @@
 Hi, I’m @matthewstachyra
-- Currently MS student in Computer Science at Tufts University.
-- Currently a Machine Learning Engineering Intern at Orbita for Summer '22.
+- MS student in Computer Science at Tufts University, focused on machine learning engineering.
+- Currently a Machine Learning Engineering Intern at Orbita for Summer.
 
 
 <!---
