@@ -1,6 +1,5 @@
 Hi, I’m @matthewstachyra
 - MS student in Computer Science at Tufts University, focused on AI (Reinforcement Learning).
-- Projects focused on applications of Machine Learning and implementing AI algorithms from scratch.
 - Currently working in MuLIP research lab at Tufts University.
 
 
