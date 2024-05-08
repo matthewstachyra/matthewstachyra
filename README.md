@@ -1,6 +1,3 @@
-Hi, I’m @matthewstachyra
-- MS student in Computer Science at Tufts University, focused on AI (Reinforcement Learning).
-- Currently working in MuLIP research lab at Tufts University.
 
 
 <!---
